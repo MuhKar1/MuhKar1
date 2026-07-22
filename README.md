@@ -92,6 +92,7 @@ Engineering is fundamentally about designing systems that are reliable, efficien
 ## 🤝 Connect
 
 Email: muhorowakariuki@gmail.com
+LinkedIn: https://www.linkedin.com/in/muhoro-kariuki-511958288/
 
 ---
 
