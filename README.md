@@ -6,7 +6,7 @@ I am a Blockchain Engineer specializing in the Solana ecosystem, with a primary 
 
 My engineering background extends beyond software. I hold a Bachelor's degree in **Chemical & Process Engineering**, where I developed a strong foundation in analytical thinking, systems engineering, optimization, and quantitative problem-solving. These principles continue to shape how I approach blockchain architecture—building protocols that emphasize correctness, security, scalability, and maintainability.
 
-I enjoy solving complex technical challenges and contributing to the infrastructure powering decentralized finance and the broader Web3 ecosystem.
+I enjoy solving complex technical challenges and contributing to the infrastructure powering decentralized finance and the broader Web3 ecosystem. I am open to projects.
 
 ---
 
