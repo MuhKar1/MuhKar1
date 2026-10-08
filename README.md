@@ -130,19 +130,6 @@ Engineering is fundamentally about designing systems that are reliable, efficien
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhKar1&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhKar1&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhKar1&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🤝 Connect
 
 - 📧 Email: [muhorowakariuki@gmail.com](mailto:muhorowakariuki@gmail.com)
